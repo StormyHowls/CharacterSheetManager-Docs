@@ -67,6 +67,8 @@ For detailed information, refer to the following documents:
 - [Discord Commands](Docs/discord-commands.md)
 - [Data Sources](Docs/data-sources.md)
 - [Database Setup](Docs/database-setup.md)
+- [Terms of Service](Docs/TOS.md)
+- [Privacy Policy](Docs/PRIVPOL.md)
 
 ## Configuration
 
